@@ -1,0 +1,48 @@
+{
+  "maisons": [
+    {
+      "image": "C:\\fakepath\\_EBJ9822.jpg",
+      "adresse": "SS",
+      "prix": "222",
+      "disponibilite": "wsw",
+      "status": "active",
+      "category": "back",
+      "date": "2023-03-24",
+      "description": "qqq",
+      "id": 1
+    },
+    {
+      "image": "C:\\fakepath\\_EBJ9822.jpg",
+      "adresse": "zz",
+      "prix": "",
+      "disponibilite": "zz",
+      "status": "inactive",
+      "category": "",
+      "date": "",
+      "description": "zzzz",
+      "id": 2
+    },
+    {
+      "image": "C:\\fakepath\\l-icone-du-routeur-dans-doodle-sketch-lignes-connexion-internet-connexion-wi-fi-au-reseau-local-w1y47f.jpg",
+      "adresse": "12gdggfgf",
+      "prix": "2222",
+      "disponibilite": "gffhfhf",
+      "status": "active",
+      "category": "back",
+      "date": "2023-03-11",
+      "description": "xnccbhjv",
+      "id": 3
+    },
+    {
+      "image": "C:\\fakepath\\_EBJ9822.jpg",
+      "adresse": "dddd",
+      "prix": "22222",
+      "disponibilite": "FFFFF",
+      "status": "",
+      "category": "front",
+      "date": "2023-03-24",
+      "description": "GGGGGG",
+      "id": 4
+    }
+  ]
+}
